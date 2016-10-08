@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TextAdventureLib</name>
+    </assembly>
+    <members>
+        <member name="F:TextAdventureLib.AdventureForm.StoryPart">
+            <summary>
+            The string representing which part of the story you're on.
+            </summary>
+        </member>
+        <member name="M:TextAdventureLib.AdventureForm.AddImage(System.String,System.String)">
+            <summary>
+            Adds an image with a name to a collection of images.
+            </summary>
+            <param name="name">The name representing the image.</param>
+            <param name="filePath">The full filepath of the image.</param>
+        </member>
+        <member name="M:TextAdventureLib.AdventureForm.AddImage(System.String,System.Drawing.Image)">
+            <summary>
+            Adds an image with a name to a collection of images.
+            </summary>
+            <param name="name">The name representing the image.</param>
+            <param name="filePath">The full filepath of the image.</param>
+        </member>
+        <member name="M:TextAdventureLib.AdventureForm.UpdateAdventure(System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Updates the adventure to a new story part.
+            </summary>
+            <param name="imageName">The name of the new image to show</param>
+            <param name="displayText">The text to display to the user</param>
+            <param name="choiceA">The text for choice A</param>
+            <param name="choiceB">The text for choice B</param>
+            <param name="choiceC">The text for choice C</param>
+            <param name="newStoryPart">The new story part</param>
+        </member>
+        <member name="M:TextAdventureLib.AdventureForm.GetImage(System.String)">
+            <summary>
+            Returns the image with the entered name from the collection of images.
+            </summary>
+            <param name="name">The name representing the image.</param>
+            <returns></returns>
+        </member>
+        <member name="M:TextAdventureLib.AdventureForm.StartAdventure(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Begins the text adventure and sets the starting point for Restart().
+            </summary>
+            <param name="imageName">The name of the starting image of the text adventure. Use AddImage to add it first.</param>
+            <param name="displayText">The starting text of the text adventure.</param>
+            <param name="choiceA">Choice A for the first part of the story.</param>
+            <param name="choiceB">Choice B for the first part of the story.</param>
+            <param name="choiceC">Choice C for the first part of the story.</param>
+            /// <param name="firstStoryPart">The story part that represents the beginning of the text adventure.</param>
+            <param name="gameoverStoryPart">The story part that represents the lose state of the text adventure. "gameover" by default.</param>
+        </member>
+        <member name="M:TextAdventureLib.AdventureForm.Lose(System.String)">
+            <summary>
+            Sets the adventure in a "lose state" where only the middle button is visible and says "restart".
+            </summary>
+            <param name="losetext">The display text to change to.</param>
+        </member>
+        <member name="M:TextAdventureLib.AdventureForm.Restart">
+            <summary>
+            Restarts the text adventure to the first part.
+            </summary>
+        </member>
+        <member name="M:TextAdventureLib.AdventureForm.ChangeText(System.String)">
+            <summary>
+            Changes the text of the display label and centers it.
+            </summary>
+            <param name="text"></param>
+        </member>
+        <member name="M:TextAdventureLib.AdventureForm.ChangeImage(System.String)">
+            <summary>
+            Changes the image of the DisplayBox to the image with the entered name. The image must be added through AddImage.
+            </summary>
+            <param name="name">The name representing the image.</param>
+        </member>
+        <member name="F:TextAdventureLib.AdventureForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TextAdventureLib.AdventureForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TextAdventureLib.AdventureForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:TextAdventureLib.HelpForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TextAdventureLib.HelpForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TextAdventureLib.HelpForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

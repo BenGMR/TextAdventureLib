@@ -1,0 +1,37 @@
+C:\Users\BenVillalobos\documents\visual studio 2010\Projects\TextAdventureLib\TextAdventureLib\bin\Release\TextAdventureLib.dll
+C:\Users\BenVillalobos\documents\visual studio 2010\Projects\TextAdventureLib\TextAdventureLib\bin\Release\TextAdventureLib.pdb
+C:\Users\BenVillalobos\documents\visual studio 2010\Projects\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.AdventureForm.resources
+C:\Users\BenVillalobos\documents\visual studio 2010\Projects\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.csproj.GenerateResource.Cache
+C:\Users\BenVillalobos\documents\visual studio 2010\Projects\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.dll
+C:\Users\BenVillalobos\documents\visual studio 2010\Projects\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.pdb
+\\gmrshared\xfers\~Ben\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.AdventureForm.resources
+\\gmrshared\xfers\~Ben\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.csproj.GenerateResource.Cache
+\\gmrshared\xfers\~Ben\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.dll
+\\gmrshared\xfers\~Ben\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.pdb
+\\gmrshared\xfers\~Ben\TextAdventureLib\TextAdventureLib\bin\Release\TextAdventureLib.dll
+\\gmrshared\xfers\~Ben\TextAdventureLib\TextAdventureLib\bin\Release\TextAdventureLib.pdb
+\\gmrshared\xfers\~Ben\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.csprojResolveAssemblyReference.cache
+C:\Users\BenVillalobos\Desktop\TextAdventureLib\TextAdventureLib\bin\Release\TextAdventureLib.dll
+C:\Users\BenVillalobos\Desktop\TextAdventureLib\TextAdventureLib\bin\Release\TextAdventureLib.pdb
+C:\Users\BenVillalobos\Desktop\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.AdventureForm.resources
+C:\Users\BenVillalobos\Desktop\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.csproj.GenerateResource.Cache
+C:\Users\BenVillalobos\Desktop\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.dll
+C:\Users\BenVillalobos\Desktop\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.pdb
+C:\Users\BenVillalobos\Desktop\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.HelpForm.resources
+C:\Users\BenVillalobos\Documents\BitBucket\textadventurelib\TextAdventureLib\TextAdventureLib\bin\Release\TextAdventureLib.dll
+C:\Users\BenVillalobos\Documents\BitBucket\textadventurelib\TextAdventureLib\TextAdventureLib\bin\Release\TextAdventureLib.pdb
+C:\Users\BenVillalobos\Documents\BitBucket\textadventurelib\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.AdventureForm.resources
+C:\Users\BenVillalobos\Documents\BitBucket\textadventurelib\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.HelpForm.resources
+C:\Users\BenVillalobos\Documents\BitBucket\textadventurelib\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.csproj.GenerateResource.Cache
+C:\Users\BenVillalobos\Documents\BitBucket\textadventurelib\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.dll
+C:\Users\BenVillalobos\Documents\BitBucket\textadventurelib\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.pdb
+C:\Users\BenVillalobos\Documents\BitBucket\textadventurelib\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.csprojResolveAssemblyReference.cache
+C:\Users\BenVillalobos\Documents\great-minds-robotics-software-libraries\C#\TextAdventureLib\TextAdventureLib\bin\Release\TextAdventureLib.dll
+C:\Users\BenVillalobos\Documents\great-minds-robotics-software-libraries\C#\TextAdventureLib\TextAdventureLib\bin\Release\TextAdventureLib.pdb
+C:\Users\BenVillalobos\Documents\great-minds-robotics-software-libraries\C#\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.csprojResolveAssemblyReference.cache
+C:\Users\BenVillalobos\Documents\great-minds-robotics-software-libraries\C#\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.AdventureForm.resources
+C:\Users\BenVillalobos\Documents\great-minds-robotics-software-libraries\C#\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.HelpForm.resources
+C:\Users\BenVillalobos\Documents\great-minds-robotics-software-libraries\C#\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.csproj.GenerateResource.Cache
+C:\Users\BenVillalobos\Documents\great-minds-robotics-software-libraries\C#\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.dll
+C:\Users\BenVillalobos\Documents\great-minds-robotics-software-libraries\C#\TextAdventureLib\TextAdventureLib\obj\Release\TextAdventureLib.pdb
+C:\Users\BenVillalobos\Documents\great-minds-robotics-software-libraries\C#\TextAdventureLib\TextAdventureLib\bin\Release\TextAdventureLib.XML

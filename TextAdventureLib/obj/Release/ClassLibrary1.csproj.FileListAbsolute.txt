@@ -1,0 +1,6 @@
+C:\Users\BenVillalobos\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\TextAdventureLib.AdventureForm.resources
+C:\Users\BenVillalobos\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.csproj.GenerateResource.Cache
+C:\Users\BenVillalobos\AppData\Local\Temporary Projects\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\BenVillalobos\AppData\Local\Temporary Projects\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\BenVillalobos\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\BenVillalobos\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.pdb
